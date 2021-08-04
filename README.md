@@ -3,4 +3,4 @@ Repository for Data Analytics micro credit
 Microcredentioal data analytics
 
 
-![Image of CUNY](https://www.cuny.edu/wp-content/uploads/sites/4/media-assets/skyline-1200x627_CUNY_Logo.jpg)
+![Image of CUNY](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/home-preview/jobs-ceo-council/EVERUP_Logo-square.jpg)
